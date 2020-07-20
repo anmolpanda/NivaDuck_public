@@ -13,7 +13,13 @@ Detailed credits for collaborators are provied in the Team Section.
 - Venkatesh Thapan - Adding missing politicians for the India dataset
 - Sachita Nishal - Adding missing politicians for the India dataset
 - Divyanshu Kukreti - Adding missing politicians for the India dataset
+- Lia Bozarth - Seed set for Indian politicians
+- Ramaravind Kommiya Mothilal - Verifying and annotating politicians with metadata for the India dataset
+- Azhagu Meena - Verifying and annotating politicians with metadata for the India dataset
+- Zainab Akbar - Preparing updated set of Indian MPs, verifying and annotating politicians  with metadata for the India dataset
+- Faisal Lalni - Verifying and annotating politicians  with metadata for the India dataset
 - Joyojeet Pal - Research advisor and manager of the NivaDuck project and the dataset of politicians at Microsoft Research India
+
 ## Data
 
 ## Methods
