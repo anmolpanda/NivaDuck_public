@@ -18,7 +18,8 @@ Detailed credits for collaborators are provied in the Team Section.
 - [Azhagu Meena](https://scholar.google.com/citations?user=A4drjU4AAAAJ&hl=en) - Verifying and annotating politicians with metadata for the India dataset
 - [Zainab Akbar](https://scholar.google.com/citations?user=NXFwzv0AAAAJ&hl=en) - Preparing updated set of Indian MPs, verifying and annotating politicians  with metadata for the India dataset
 - [Faisal Lalani](https://www.linkedin.com/in/faisalmlalani/) - Verifying and annotating politicians  with metadata for the India dataset
-- [Joyojeet Pal](https://joyojeet.people.si.umich.edu/) -  Project Architect, research advisor and manager of the NivaDuck project and the dataset of politicians at Microsoft Research India
+- [Joyojeet Pal](https://joyojeet.people.si.umich.edu/) -  Project Architect
+<!--, research advisor and manager of the NivaDuck project and the dataset of politicians at Microsoft Research India -->
 
 ## Data
 We are publishing the list of Twitter handles compiled as of July 22, 2020. This list is subject to updation (addition, removal and change in metadata) as politicians change parties, more false positives are identified, and new politicians arrive. The metadata consists of state and party annotations for about half the Indian handles and state annotations almost all of the USA handles. For the remaining accounts, we are adding and verifying metadata and will update this repository at regular intervals.
