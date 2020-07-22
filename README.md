@@ -22,7 +22,7 @@ Detailed credits for collaborators are provied in the Team Section.
 - Udit Thawani -  Verifying politicians
 - Reeshma Kumar -  Verifying politicians
 - Tanvi Madhani -  Verifying politicians
-- [Joyojeet Pal](https://joyojeet.people.si.umich.edu/) -  Project Architect
+- [Joyojeet Pal](https://www.microsoft.com/en-us/research/people/jopal/) -  Project Architect
 <!--, research advisor and manager of the NivaDuck project and the dataset of politicians at Microsoft Research India -->
 
 ## Data
