@@ -18,6 +18,10 @@ Detailed credits for collaborators are provied in the Team Section.
 - [Azhagu Meena](https://scholar.google.com/citations?user=A4drjU4AAAAJ&hl=en) - Verifying and annotating politicians with metadata for the India dataset
 - [Zainab Akbar](https://scholar.google.com/citations?user=NXFwzv0AAAAJ&hl=en) - Preparing updated set of Indian MPs, verifying and annotating politicians  with metadata for the India dataset
 - [Faisal Lalani](https://www.linkedin.com/in/faisalmlalani/) - Verifying and annotating politicians  with metadata for the India dataset
+- [Ashwin Rajadesingan](https://ashwinrajadesingan.com/) -  Verifying politicians
+- Udit Thawani -  Verifying politicians
+- Reeshma Kumar -  Verifying politicians
+- Tanvi Madhani -  Verifying politicians
 - [Joyojeet Pal](https://joyojeet.people.si.umich.edu/) -  Project Architect
 <!--, research advisor and manager of the NivaDuck project and the dataset of politicians at Microsoft Research India -->
 
